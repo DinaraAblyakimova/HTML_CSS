@@ -1,0 +1,15 @@
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.parent2 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.parent3 {
+	padding: 10px 20px;
+	border: 1px solid red;
+    text-align: right;
+}
