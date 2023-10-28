@@ -6,8 +6,17 @@
     text-align: justify;
 }
 
-#child{
-        float: right;
+#child1{
+    float: right;
+    width: 100px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+#child2{
+    float: right;
     width: 100px;
     height: 70px;
     margin-top: 20px;
