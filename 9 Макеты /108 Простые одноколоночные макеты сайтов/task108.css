@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+p{
+    font: 17px "Times New Roman";
+    /*padding: 0, 10px;*/
+    margin-bottom: 10px;
+}
+a{
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#wrapper{
+    width: 700px;
+    margin: 50px auto;
+    text-align: justify;
+    border: 1px solid black;
+}
+
+
+#menu {
+    display: flex;
+    background-color: #484848;
+    margin-bottom: 20px;
+
+}
+#menu a {
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #fff;
+    font: bold 14px Arial;
+}
+#menu a:hover, #menu a.active{
+    color: #484848;
+    background-color: white;
+
+}
